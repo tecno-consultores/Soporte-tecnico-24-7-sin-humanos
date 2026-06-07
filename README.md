@@ -1,5 +1,7 @@
 # Soporte Técnico 24/7 sin humanos: Revolucionando el Helpdesk del ISP con N8N y LLMs 🚀
 
+Video de la presentacion en Youtube: https://www.youtube.com/watch?v=BHKMhNaxniM
+
 Este repositorio contiene las diapositivas y el material de apoyo de la presentación técnica **"Soporte técnico 24/7 sin humanos"**, orientada a transformar radicalmente las operaciones de Nivel 1 (L1) en Proveedores de Servicios de Internet (ISPs) mediante la adopción de una cultura NetDevOps.
 
 ---
